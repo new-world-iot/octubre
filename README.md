@@ -1,1 +1,2 @@
-# ventana readme, descripción del codigo
+# codigo arduino funcionamiento con el led bicolor 
+
