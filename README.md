@@ -1,1 +1,1 @@
-# octubre
+# ventana readme, descripción del codigo
